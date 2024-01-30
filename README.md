@@ -14,3 +14,9 @@ Before you run the script, ensure you have the following installed:
 - Python 3.11
 - Selenium
 - Webdriver
+
+
+
+
+https://github.com/Bakr-963/DataSet-Web-Scraping-algorithm/assets/143032745/5ddeedc7-cddd-4bdf-a2df-c6ec6a93ee5a
+
